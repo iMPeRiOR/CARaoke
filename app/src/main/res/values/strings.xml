@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Car Lyrics</string>
+    <string name="notification_listener_label">YouTube Music song detection</string>
+    <string name="open_notification_access">Open notification access</string>
+    <string name="setup_instructions">Grant notification access, play a song in YouTube Music, then open Car Lyrics in Android Auto.</string>
+</resources>
