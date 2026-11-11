@@ -79,6 +79,6 @@ class LyricsClient {
     private companion object {
         const val BASE_URL = "https://lrclib.net/api"
         const val USER_AGENT =
-            "AndroidAutoLyrics v1.0 (https://github.com/1413090/androidautolyrics)"
+            "CARaoke v1.1 (https://github.com/iMPeRiOR/CARaoke)"
     }
 }

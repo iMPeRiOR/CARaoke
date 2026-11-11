@@ -1,6 +1,25 @@
 <resources>
-    <string name="app_name">Car Lyrics</string>
+    <string name="app_name">CARaoke</string>
     <string name="notification_listener_label">YouTube Music song detection</string>
     <string name="open_notification_access">Open notification access</string>
-    <string name="setup_instructions">Grant notification access, play a song in YouTube Music, then open Car Lyrics in Android Auto.</string>
+    <string name="setup_instructions">Grant notification access, then play a song in YouTube Music. This screen confirms whether synchronized lyrics were found.</string>
+    <string name="notification_access_enabled">Notification access is enabled</string>
+    <string name="notification_access_required">Notification access is required</string>
+    <string name="play_install_detected">Android Auto install source: Google Play.</string>
+    <string name="sideload_install_detected">Android Auto install source: sideloaded. Enable Android Auto developer mode and Unknown sources so this media app can appear in Customize launcher.</string>
+    <string name="no_song_detected">No YouTube Music song detected</string>
+    <string name="detected_song">Detected:\n%1$s\n%2$s</string>
+    <string name="lyrics_waiting">Lyrics: waiting for a song</string>
+    <string name="lyrics_loading">Lyrics: finding synchronized lyrics&#8230;</string>
+    <string name="lyrics_unavailable">Lyrics: no synchronized lyrics found</string>
+    <string name="lyrics_failed">Lyrics request failed:\n%1$s</string>
+    <string name="lyrics_before_first_line">Lyrics loaded; waiting for the first line&#8230;</string>
+    <string name="current_lyric">Current lyric:\n%1$s</string>
+    <string name="car_no_song">No song detected</string>
+    <string name="car_open_youtube_music">Play a song in YouTube Music</string>
+    <string name="car_track_subtitle">%1$s - %2$s</string>
+    <string name="car_waiting_first_line">Waiting for the first lyric line&#8230;</string>
+    <string name="car_lyrics_loading">Finding synchronized lyrics&#8230;</string>
+    <string name="car_lyrics_unavailable">No synchronized lyrics found</string>
+    <string name="car_lyrics_failed">Could not load lyrics</string>
 </resources>

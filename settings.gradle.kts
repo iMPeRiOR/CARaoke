@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidAutoLyrics"
+rootProject.name = "CARaoke"
 include(":app")

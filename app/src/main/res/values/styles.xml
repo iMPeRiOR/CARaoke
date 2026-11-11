@@ -1,5 +1,5 @@
 <resources>
-    <style name="Theme.AndroidAutoLyrics" parent="android:style/Theme.Material.Light.NoActionBar">
+    <style name="Theme.CARaoke" parent="android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:colorAccent">#6750A4</item>
         <item name="android:navigationBarColor">#FFFFFF</item>
